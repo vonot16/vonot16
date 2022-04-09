@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 - 🕊  <a href="https://twitter.com/vonot16" targert="_blank" >Twitter </a>
 - 💼 <a href="https://www.linkedin.com/in/vonot/" targert="_blank" >LinkedIn </a>
-- 🤳 <a href="https://www.instagram.com/vonot16/" targert="_blank" >Twitch (Not Yet) </a>
+- 🤳 <a href="https://www.instagram.com/vonot16/" targert="_blank" >Instagram </a>
 - 📺 <a href="#" targert="_blank" >Twitch (Not Yet)</a>
 - 🌐 <a href="#" targert="_blank" >Personal Site (Not Yet)</a>
