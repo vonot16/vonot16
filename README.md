@@ -30,5 +30,15 @@ Here are some ideas to get you started:
 - 🕊  <a href="https://twitter.com/vonot16" targert="_blank" >Twitter </a>
 - 💼 <a href="https://www.linkedin.com/in/vonot/" targert="_blank" >LinkedIn </a>
 - 🤳 <a href="https://www.instagram.com/vonot16/" targert="_blank" >Instagram </a>
-- 📺 <a href="#" targert="_blank" >Twitch (Not Yet)</a>
-- 🌐 <a href="#" targert="_blank" >Personal Site (Not Yet)</a>
+
+### Projects
+
+- <a href="https://github.com/vonot16/javascriptCalculator">Calculator using JavaScript</a> (Need to Finish README)
+- <a href="https://github.com/vonot16/javascriptTodo">To do using Javascript</a> (Need to Finish)
+- <a href="https://github.com/vonot16/binary2decimal">Binary to Decimal Converter using Javascript</a> (Need to Finish README)
+- <a href="https://github.com/vonot16/chuva-front-end-exercise">Chuva Inc. Front-End Test</a> (Need to Finish)
+- <a href="https://github.com/vonot16/askonnection-front-end">AsKonnection Front-End</a> - React Native APP made for Inatel App Challenge 2k22 (Re-Work)
+- <a href="https://github.com/vonot16/askonnection-back-end">AsKonnection Back-End</a> - NodeJS Back-End made for Inatel App Challenge 2k22
+
+### Studies
+- <a href="https://github.com/vonot16/hacker-rank">Hacker Rank Solutions</a>
