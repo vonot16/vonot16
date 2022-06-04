@@ -6,29 +6,31 @@
   Please feel free to see all my projects, and to make contact with me anytime.
 </p>
 
-<!--
-**vonot16/vonot16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="NodeJs" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Cpp" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Ubuntu" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Mysql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+<br>
 
-Here are some ideas to get you started:
+- 🎓 I'm studying Software Engineering at <a href="https://inatel.br/home/" target="_blank"> Instituto Nacional de Telecomunicações</a> at 5th Period.</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🎓 I'm studying Software Engineering at <a href="https://inatel.br/home/" target="_blank"> Instituto Nacional de Telecomunicações</a> at 5th Period.
 - 📚 I'm currently learning HTML, CSS, JS, ReactJS and NodeJS.
+
 - 💼 I'm looking for job opportunities. (Frontend / Backend / FullStack).
 
 ### Find me on Social Medias
 
 - 🕊  <a href="https://twitter.com/vonot16" targert="_blank" >Twitter </a>
+
 - 💼 <a href="https://www.linkedin.com/in/vonot/" targert="_blank" >LinkedIn </a>
+
 - 🤳 <a href="https://www.instagram.com/vonot16/" targert="_blank" >Instagram </a>
 
 ### Projects
