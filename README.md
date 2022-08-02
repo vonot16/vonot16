@@ -41,6 +41,7 @@
 - <a href="https://github.com/vonot16/chuva-front-end-exercise">Chuva Inc. Front-End Test</a> (Need to Finish)
 - <a href="https://github.com/vonot16/askonnection-front-end">AsKonnection Front-End</a> - React Native APP made for Inatel App Challenge 2k22 (Re-Work)
 - <a href="https://github.com/vonot16/askonnection-back-end">AsKonnection Back-End</a> - NodeJS Back-End made for Inatel App Challenge 2k22
+- <a href="https://github.com/vonot16/audio-player">Audio Player</a> - Working On
 
 ### Studies
 - <a href="https://github.com/vonot16/hacker-rank">Hacker Rank Solutions</a>
