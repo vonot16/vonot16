@@ -19,9 +19,9 @@
 </div>
 <br>
 
-- 🎓 I'm studying Software Engineering at <a href="https://inatel.br/home/" target="_blank"> Instituto Nacional de Telecomunicações</a> at 5th Period.</a>
+- 🎓 I'm studying Software Engineering at <a href="https://inatel.br/home/" target="_blank"> Instituto Nacional de Telecomunicações</a> at 9th Semester.</a>
 
-- 📚 I'm currently learning HTML, CSS, JS, ReactJS and NodeJS.
+- 📚 I'm currently learning ReactJS, Python and Cyber Security.
 
 - 💼 I'm looking for job opportunities. (Frontend / Backend / FullStack).
 
